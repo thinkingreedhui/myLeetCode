@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1389769015 source:d:\learn c++\sortlist\main.cpp
+	<iostream>
+	"sortList.h"
+
+1389768428 d:\learn c++\sortlist\sortlist.h
+
