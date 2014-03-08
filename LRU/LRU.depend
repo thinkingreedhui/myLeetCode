@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1392945915 source:d:\learn c++\lru\main.cpp
+	<iostream>
+	"LRU.h"
+
+1392946427 d:\learn c++\lru\lru.h
+	<unordered_map>
+	<list>
+
