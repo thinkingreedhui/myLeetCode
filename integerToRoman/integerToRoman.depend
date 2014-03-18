@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1395102719 source:d:\leetcodesolutions\integertoroman\main.cpp
+	<iostream>
+	"integerToRoman.h"
+
+1395102812 d:\leetcodesolutions\integertoroman\integertoroman.h
+	<string>
+
