@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1395230665 source:d:\leetcodesolutions\mergetwosortedlist\main.cpp
+	<iostream>
+	"mergeTwoSortedList.h"
+
+1395278093 d:\leetcodesolutions\mergetwosortedlist\mergetwosortedlist.h
+	<iostream>
+
